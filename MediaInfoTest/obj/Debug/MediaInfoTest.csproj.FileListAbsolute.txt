@@ -1,0 +1,9 @@
+c:\users\photodynamics5\documents\visual studio 2015\Projects\MediaInfoTest\MediaInfoTest\bin\Debug\MediaInfoTest.exe.config
+c:\users\photodynamics5\documents\visual studio 2015\Projects\MediaInfoTest\MediaInfoTest\bin\Debug\MediaInfoTest.exe
+c:\users\photodynamics5\documents\visual studio 2015\Projects\MediaInfoTest\MediaInfoTest\bin\Debug\MediaInfoTest.pdb
+c:\users\photodynamics5\documents\visual studio 2015\Projects\MediaInfoTest\MediaInfoTest\obj\Debug\MediaInfoTest.exe
+c:\users\photodynamics5\documents\visual studio 2015\Projects\MediaInfoTest\MediaInfoTest\obj\Debug\MediaInfoTest.pdb
+c:\users\photodynamics5\documents\visual studio 2015\Projects\MediaInfoTest\MediaInfoTest\obj\Debug\MediaInfoTest.csprojResolveAssemblyReference.cache
+c:\users\photodynamics5\documents\visual studio 2015\Projects\MediaInfoTest\MediaInfoTest\bin\Debug\MediaInfo.dll
+c:\users\photodynamics5\documents\visual studio 2015\Projects\MediaInfoTest\MediaInfoTest\bin\Debug\Example.ogg
+C:\Users\Photodynamics5\Documents\Visual Studio 2015\Projects\MediaInfoTest\MediaInfoTest\bin\Debug\SuperMario64DireDireDocks.mp3
